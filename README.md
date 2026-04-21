@@ -4,6 +4,10 @@ Printing files are in stl format and can be printed.
 Visualising files are for importing into tinkercad and seeing the different parts and characteristics.
 Part file are the models I used to make the finished model.
 
+# Notes
+
+when downloading files thay will be gray not colored.
+
 # Legend
 For 200-200-200 scale
 
@@ -22,7 +26,8 @@ Oceanic Crust:
 Continental Crust:
     The continental crust is 10 to 75 km thick and is made of solid rock. Dipected as the blue in modle images and is 0.3 mm thick.
 
-Athosphere:
+Asthenosphere:
+    The asthenosphere is roghly 200 km deep in the mantle to 700 km deep.
 
 Lithosphere:
-
+    The lithosphere constists of continental crust, oceanic crust and part of teh mantle. it is from the serfice to 200 km deep.
