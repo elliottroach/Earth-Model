@@ -30,10 +30,10 @@ Continental Crust:
 
 # Asthenosphere/Lithosphere Model
 Asthenosphere:
-    The asthenosphere is roghly 200 km deep in the mantle to 700 km deep. Dipected as the pink in modle images and is 15.7 mm thick
+    The asthenosphere is roughly 200 km deep in the mantle to 700 km deep. Dipected as the pink in modle images and is 15.7 mm thick
 
 Lithosphere:
-    The lithosphere constists of continental crust, oceanic crust and part of teh mantle. it is from the serfice to 200 km deep. Dipected as the blue in modle images and is 6.28 mm thick
+    The lithosphere constists of continental crust, oceanic crust and part of the mantle. it is from the serfice to 200 km deep. Dipected as the blue in modle images and is 6.28 mm thick
 
-Mantle:
+Lower Mantle:
     The mantle is 2900 km thick and is made of molten rock called magma. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 69.06 mm thick.
