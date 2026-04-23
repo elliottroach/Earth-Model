@@ -10,6 +10,14 @@ Part file are the models I used to make the finished model.
 
 when downloading files thay will be gray not colored.
 
+# Seismic Waves
+
+P-Waves:
+    P-Waves are the fastest seismic wave and can traval throgh solids or liquids.
+
+S-Waves:
+    S-Waves are Slower than P-Waves and can only traval throgh solids.
+
 # Legend
 For 200-200-200 scale
 
