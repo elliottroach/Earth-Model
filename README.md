@@ -22,7 +22,7 @@ S-Waves:
 For 200-200-200 scale
 
 Inner Core: 
-    The inner core is 1220 km in radius made of solid nickel and iron. Dipected as the yellow/white in modle images and is 38.3 mm thick.
+    The inner core is 1220 km in radius made of solid nickel and iron, at 5,430 °C. Dipected as the yellow/white in modle images and is 38.3 mm thick.
 
 Outer Core:
     The outer core is 2250 km thick and is made of liquid nickel and iron. Dipected as the orange in modle images and is 70.6 mm thick.
