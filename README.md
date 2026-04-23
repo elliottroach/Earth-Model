@@ -28,7 +28,7 @@ Outer Core:
     The outer core is 2250 km thick and is made of liquid nickel and iron, at 2,700–4,200 °C. Dipected as the orange in modle images and is 70.6 mm thick.
 
 Mantle:
-    The mantle is 2900 km thick and is made of molten rock called magma. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 91.1 mm thick.
+    The mantle is 2900 km thick and is made of molten rock called magma and is 230 °C. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 91.1 mm thick.
 
 Oceanic Crust:
     The oceanic crust is 5 to 7 km thick and is made of solid rock. Dipected as the blue in modle images and is 0.2 mm thick.
