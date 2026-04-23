@@ -25,7 +25,7 @@ Inner Core:
     The inner core is 1220 km in radius made of solid nickel and iron, at 5,430 °C. Dipected as the yellow/white in modle images and is 38.3 mm thick.
 
 Outer Core:
-    The outer core is 2250 km thick and is made of liquid nickel and iron. Dipected as the orange in modle images and is 70.6 mm thick.
+    The outer core is 2250 km thick and is made of liquid nickel and iron, at 2,700–4,200 °C. Dipected as the orange in modle images and is 70.6 mm thick.
 
 Mantle:
     The mantle is 2900 km thick and is made of molten rock called magma. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 91.1 mm thick.
