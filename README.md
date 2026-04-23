@@ -25,10 +25,10 @@ Inner Core:
     The inner core is 1220 km in radius made of solid nickel and iron, at 5,430 °C. Dipected as the yellow/white in modle images and is 38.3 mm thick.
 
 Outer Core:
-    The outer core is 2250 km thick and is made of liquid nickel and iron, at 2,700–4,200 °C. Dipected as the orange in modle images and is 70.6 mm thick.
+    The outer core is 2250 km thick and is made of liquid nickel and iron, at 2,700–4,200 °C. In the model it is not perfictly round because in earth it is not perfictly round. Dipected as the orange in modle images and is 70.6 mm thick.
 
 Mantle:
-    The mantle is 2900 km thick and is made of molten rock called magma and is 230 °C. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 91.1 mm thick.
+    The mantle is 2900 km thick and is made of molten rock called magma and is 230 °C. In the model it is not perfictly round because there are large misplaced chunks of rock. Dipected as the red in modle images. the manle is split in to two parts one part of the athosphere the other part of the lithosphere and is 91.1 mm thick.
 
 Oceanic Crust:
     The oceanic crust is 5 to 7 km thick and is made of solid rock. Dipected as the blue in modle images and is 0.2 mm thick.
