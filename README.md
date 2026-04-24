@@ -11,6 +11,7 @@ Part files are the models I used to make the finished model.
 When downloading files they will be gray not colored.
 
 # Seismic Waves
+On the 3d file the colours used correspond to the legend.
 
 P-Waves:
     P-Waves are the fastest seismic wave and can travel through solids, liquids or gases. P-Waves move fastest through solids, slower in liquids and even slower in gases. P-Waves move like a train bumping into a cart and the cart bumping into another cart and so on.
