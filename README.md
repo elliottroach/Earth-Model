@@ -8,7 +8,7 @@ Part file are the models I used to make the finished model.
 
 # Notes
 
-when downloading files thay will be gray not colored.
+When downloading files thay will be gray not colored.
 
 # Seismic Waves
 
