@@ -13,10 +13,10 @@ when downloading files thay will be gray not colored.
 # Seismic Waves
 
 P-Waves:
-    P-Waves are the fastest seismic wave and can traval throgh solids or liquids.
+    P-Waves are the fastest seismic wave and can traval throgh solids, liquids or gases. P-Waves move fastest throght solids, slower in liquids and even slower in gases. P-Waves move like a train bumping into a cart and the cart bumping into another cart and so on.
 
 S-Waves:
-    S-Waves are Slower than P-Waves and can only traval throgh solids.
+    S-Waves are Slower than P-Waves and can only traval throgh solids. S-Waves move up and down like a ocean wave.
 
 # Legend
 For 200-200-200 scale
